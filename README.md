@@ -2,7 +2,7 @@
 ###Written by Sean Morrison
 ***
 ##Description
-Play with it and see. 
+60 FPS animation using vanilla HTML Canvas / Javascript / Web Audio API.  No framework or Physics Engine.
 ***
 ##Licensing
 - [GPLv3]
